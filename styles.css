@@ -239,7 +239,7 @@ code {
     display: block;
     position: fixed;
     top: 20px;
-    left: 26px;
+    left: 15px;
     z-index: 6;
     width: 100%;
   }
@@ -255,21 +255,21 @@ code {
 
   section article {
     color: #4d4e53;
-    margin: 15px;
+    margin: 15px 13px 15px 16px;
     font-size: 0.7em;
   }
   
   section li {
-    margin: 15px 0px 0px 17px;
+    margin: 15px 0px 0px 19px;
   }
 
   .Js_header{
-    margin-left: -12px;
+    margin-left: -20px;
   }
 
   #main-doc header {
     text-align: left;
-    margin-left: 5px;
+    margin-left: 10px;
     font-size: 1.4em;
   } 
 }
