@@ -250,7 +250,7 @@ code {
 
   #main-doc {
     margin-right: 3px;
-    margin-left: 3px;
+    margin-left: 5px;
   }
 
   section article {
@@ -260,7 +260,7 @@ code {
   }
   
   section li {
-    margin: 15px 0px 0px 15px;
+    margin: 15px 0px 0px 17px;
   }
 
   .Js_header{
@@ -269,7 +269,7 @@ code {
 
   #main-doc header {
     text-align: left;
-    margin-left: 2px;
+    margin-left: 5px;
     font-size: 1.4em;
   } 
 }
